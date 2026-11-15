@@ -1,0 +1,33 @@
+{
+  "ranks": [
+    { "name": "Başkomutan", "rank": 245 },
+    { "name": "Başkomutan Vekili", "rank": 220 },
+    { "name": "Meclis Kurulu Başkanı", "rank": 175 },
+    { "name": "Meclis Başkan Yardımcısı", "rank": 160 },
+    { "name": "Meclis Kurulu", "rank": 150 },
+    { "name": "Sadrazam", "rank": 135 },
+    { "name": "Serasker", "rank": 130 },
+    { "name": "Serasker Vekili", "rank": 125 },
+    { "name": "Vezir", "rank": 120 },
+    { "name": "Müşir", "rank": 115 },
+    { "name": "Ordu Müfettişi", "rank": 110 },
+    { "name": "Ferik-i Evvel", "rank": 105 },
+    { "name": "Ferik-i Sani", "rank": 100 },
+    { "name": "Mirliva", "rank": 95 },
+    { "name": "Erkân", "rank": 90 },
+    { "name": "Miralay", "rank": 80 },
+    { "name": "Kaymakam", "rank": 75 },
+    { "name": "Binbaşı", "rank": 70 },
+    { "name": "Kolağası", "rank": 65 },
+    { "name": "Yüzbaşı", "rank": 60 },
+    { "name": "Mülazım-ı Evvel", "rank": 55 },
+    { "name": "Mülazım-ı Sani", "rank": 50 },
+    { "name": "Astsubay Başçavuş", "rank": 40 },
+    { "name": "Başçavuş", "rank": 35 },
+    { "name": "Uzman Çavuş", "rank": 30 },
+    { "name": "Çavuş", "rank": 25 },
+    { "name": "Onbaşı", "rank": 20 },
+    { "name": "Azap", "rank": 10 },
+    { "name": "Acemi Er", "rank": 1 }
+  ]
+}
